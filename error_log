@@ -1,0 +1,4 @@
+[25-Jan-2018 10:22:51 UTC] PHP Fatal error:  Call to undefined function update_user_meta() in /home/nout/public_html/arena/wp-content/themes/eduma/ajax-account.php on line 11
+[25-Jan-2018 10:23:04 UTC] PHP Fatal error:  Call to undefined function update_user_meta() in /home/nout/public_html/arena/wp-content/themes/eduma/ajax-account.php on line 11
+[25-Jan-2018 10:24:31 UTC] PHP Fatal error:  Call to undefined function update_user_meta() in /home/nout/public_html/arena/wp-content/themes/eduma/ajax-account.php on line 11
+[25-Jan-2018 10:26:49 UTC] PHP Fatal error:  Call to undefined function update_user_meta() in /home/nout/public_html/arena/wp-content/themes/eduma/ajax-account.php on line 11
