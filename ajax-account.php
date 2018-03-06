@@ -6,7 +6,7 @@ $team = $_POST['team'];
 $user_id = $_POST['user'];
 $gamer_id = $_POST['gamer'];
 $team_id = $_POST['team_id'];
-echo $name." ".$team." ".$user." ".$gamer." ".$team_id; 
+echo $name." ".$team." ".$user." ".$gamer;
 
 //update_user_meta($user_id,'role'.$team,'gamer', 'captain');
 //  update_user_meta($user_id,'team'.$team,'-', $team);
